@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="im gettin tired"
+config/name="That-One-Platformer-I-Made"
 run/main_scene="uid://dsa8daid7lutm"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
